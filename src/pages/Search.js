@@ -19,12 +19,6 @@ export const Search = () => {
 		setLoading(false);
 	};
 
-	// // Load User
-	// const loadUser = (login) => {
-	// 	console.log(login);
-	// 	getUser(login);
-	// };
-
 	// Input onChange
 	const onChange = (e) => {
 		// console.log(e.target.value);
@@ -38,7 +32,6 @@ export const Search = () => {
 		setShow(true);
 		getUsers();
 	};
-	// console.log(loading);
 
 	// Clear Search
 	const clearSearch = (e) => {

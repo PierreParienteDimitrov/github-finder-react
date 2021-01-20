@@ -1,3 +1,19 @@
+## In Progress
+
+# Github Finder
+
+This App allows users to search github users and access their public informations. 
+
+## Technology
+React
+React Hooks
+React Context API
+Axios
+JavaScript
+CSS GRID
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
